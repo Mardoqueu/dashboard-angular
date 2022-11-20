@@ -1,27 +1,41 @@
-# DashboardAngular
+<h1 align="center">Welcome to dashboard-angular 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/SousaMardoqueu" target="_blank">
+    <img alt="Twitter: SousaMardoqueu" src="https://img.shields.io/twitter/follow/SousaMardoqueu.svg?style=social" />
+  </a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+>  iniciar o projeto de uma dashboard com Angular e Angular Material de forma simples e rápida.
 
-## Development server
+### 🏠 [Homepage](https://dashboard-angular-flame.vercel.app/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### ✨ [Demo](https://dashboard-angular-flame.vercel.app/)
 
-## Code scaffolding
+## Install
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```sh
+npm install
+```
 
-## Build
+## Usage
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```sh
+npm run start
+```
 
-## Running unit tests
+## Author
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+👤 **Mardoqueu Sousa**
 
-## Running end-to-end tests
+* Website: https://react-portfolio-website-indol.vercel.app/
+* Twitter: [@SousaMardoqueu](https://twitter.com/SousaMardoqueu)
+* Github: [@mardoqueu](https://github.com/mardoqueu)
+* LinkedIn: [@mardoqueu-sousa](https://linkedin.com/in/mardoqueu-sousa)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Show your support
 
-## Further help
+Give a ⭐️ if this project helped you!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
